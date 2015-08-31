@@ -839,6 +839,15 @@ secure_pay_tech:
   login: TESTDIGISPL1
   password: d557591484cb2cd12bba445aba420d2c69cd6a88
 
+# Working credentials, no need to replace
+# simplify:
+#   public_key: sbpb_NzZiMTkxNzQtNWY5OC00NTlkLTlhZDktNGU0YTQ0MWQ0YzA0
+#   private_key: VUgxeFBRV285WHpxZDNSOG8vWHhkMEtFeHdESFpNblFSdnpLaGtoRktQYz0=
+
+simplify:
+  private_key: EoFwvdvwqLagPWkgspK7VRHAJr+JBGevQkaVCPgh3vN5YFFQL0ODSXAOkNtXTToq
+  public_key: sbpb_YjRhNTNkZDYtMDdjOC00MTg4LTljOGMtYjNlOTlkNmVhMDhh
+
 #  Replace with your serial numbers for the skipjack test environment
 skipjack:
   login: X
